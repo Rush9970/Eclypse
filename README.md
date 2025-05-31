@@ -42,6 +42,8 @@ A modern fashion e-commerce frontend developed with React, TypeScript, and Tailw
  ```bash
 http://localhost:5173
 ```
+
+```bash
 eclypse-fashion/
 ├── src/
 │   ├── components/       # Reusable UI components
@@ -53,5 +55,5 @@ eclypse-fashion/
 ├── package.json          # Project dependencies
 └── tsconfig.json         # TypeScript configuration
 
-
+```
    
